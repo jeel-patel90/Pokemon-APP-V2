@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Pokémon Card Viewer 🧢⚡  
 A stylish React app to explore 300 Pokémon using PokéAPI. Search them by name and view their stats, types, abilities, and more — all with clean and responsive design.  
@@ -57,3 +58,7 @@ Made with ❤️ by [Your Name](https://github.com/yourusername)
 
 ---  
 > Pokémon data provided by https://pokeapi.co/
+=======
+# Pokemon-APP-V2
+This app uses official pokemon api to fetch pokemons data like its pictures and its types and its abilities etc.
+>>>>>>> b77ef4935c7da3c2fe178a05c7348feab3423e0f

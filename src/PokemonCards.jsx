@@ -11,6 +11,7 @@ function PokemonCards({ pokemonData }) {
                 <p>
                     {pokemonData.types.map((curType) => curType.type.name).join(', ')}
                 </p>
+
             </div>
 
             <div className="grid-three-cols">
